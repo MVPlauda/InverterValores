@@ -1,0 +1,15 @@
+C:\Users\plaud\Desktop\InverterValores\obj\Debug\net7.0\InverterValores.csproj.AssemblyReference.cache
+C:\Users\plaud\Desktop\InverterValores\obj\Debug\net7.0\InverterValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plaud\Desktop\InverterValores\obj\Debug\net7.0\InverterValores.AssemblyInfoInputs.cache
+C:\Users\plaud\Desktop\InverterValores\obj\Debug\net7.0\InverterValores.AssemblyInfo.cs
+C:\Users\plaud\Desktop\InverterValores\obj\Debug\net7.0\InverterValores.csproj.CoreCompileInputs.cache
+C:\Users\plaud\Desktop\InverterValores\bin\Debug\net7.0\InverterValores.exe
+C:\Users\plaud\Desktop\InverterValores\bin\Debug\net7.0\InverterValores.deps.json
+C:\Users\plaud\Desktop\InverterValores\bin\Debug\net7.0\InverterValores.runtimeconfig.json
+C:\Users\plaud\Desktop\InverterValores\bin\Debug\net7.0\InverterValores.dll
+C:\Users\plaud\Desktop\InverterValores\bin\Debug\net7.0\InverterValores.pdb
+C:\Users\plaud\Desktop\InverterValores\obj\Debug\net7.0\InverterValores.dll
+C:\Users\plaud\Desktop\InverterValores\obj\Debug\net7.0\refint\InverterValores.dll
+C:\Users\plaud\Desktop\InverterValores\obj\Debug\net7.0\InverterValores.pdb
+C:\Users\plaud\Desktop\InverterValores\obj\Debug\net7.0\InverterValores.genruntimeconfig.cache
+C:\Users\plaud\Desktop\InverterValores\obj\Debug\net7.0\ref\InverterValores.dll
